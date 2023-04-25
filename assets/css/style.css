@@ -1,14 +1,11 @@
 body {
     background-color: #FEE8B0;
     font-family: 'Montserrat', 'Verdana', sans-serif;
-    /*overflow-x: auto;*/
     color: #3A2B13;
     height: auto;
-    /*border:1px solid black;*/
 }
 
 #main_container {
-    /*border: 1px solid red;*/
     width: 100%;
     height: 100%;
     margin: 0;
@@ -21,7 +18,6 @@ header h1 {
     text-align: center;
     margin-block-start: 0;
     margin-block-end: 0;
-
 }
 
 header p {
@@ -30,7 +26,6 @@ header p {
     margin-bottom: 0;
     font-weight: bold;
 }
-
 
 #header-image {
     height: 20vh;
@@ -61,7 +56,6 @@ nav {
     top: 0;
     z-index: 1;
     box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.1);
-
 }
 
 nav ul {
@@ -97,7 +91,6 @@ nav ul li a:hover {
     margin-left: 10%;
     margin-top: 5%;
     padding: 2rem;
-    overflow: auto;
 }
 
 #about_us_div {
@@ -178,7 +171,6 @@ textarea {
     width: 100%;
     margin-left: 0;
     margin-top: 2%;
-
 }
 
 #wrapper iframe {
@@ -193,7 +185,6 @@ footer {
     background-color: #FFF3E0;
     box-shadow: -2px -2px 8px rgba(36, 68, 23, 0.1);
     bottom: 0;
-    /*position: flex;*/
 }
 
 #social {
@@ -202,7 +193,6 @@ footer {
     height: 100%;
     width: 20%;
     float: right;
-
 }
 
 footer ul li {
@@ -308,7 +298,6 @@ footer ul li {
     width: 100%;
     height: 25vh;
     text-align: center;
-
 }
 
 #thank_you p {
