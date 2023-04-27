@@ -43,10 +43,6 @@ Providing information about history , purpose and goals of the company.
 
 ![img](assets/images/about_us_text.jpg)
 
-### Right side decorative img
-
-![img](assets/images/right-cosmetics-baner.jpg)
-
 ### Typography
 
 'font-family: Montserrat, Verdana, sans-serif;'
