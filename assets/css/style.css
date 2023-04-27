@@ -441,6 +441,17 @@ footer ul li {
         float: right;
     }
 
+    #social ul {
+        height: 70%;
+        padding-left: 2%;
+    }
+
+    #social ul li {
+        height: 90%;
+        width: 30%;
+        float: left;
+    }
+
     .footer_products {
         margin-bottom: 0;
         position: fixed;
