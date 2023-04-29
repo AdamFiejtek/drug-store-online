@@ -2,7 +2,7 @@
 
 ![img](assets/images/am_i_responsive.jpg)
 
-<https://adamfiejtek.github.io/pp1/index.html>
+<https://adamfiejtek.github.io/drug-store-shop//index.html>
 
 Portfolio Project 1
 
